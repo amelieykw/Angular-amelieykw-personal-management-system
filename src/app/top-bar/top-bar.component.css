@@ -1,0 +1,17 @@
+.logo {
+  width: 150px;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin: 0px 0px 0px 0px;
+  float: left;
+}
+
+.logo > a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: white
+}
+
+.header-menu {
+  line-height: 64px;
+}
